@@ -6,59 +6,48 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Refinitiv, an LSEG Business
+    url: "https://www.refinitiv.com/en"
+    location: Bangkok, Thailand
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Refinitiv is an American-British global provider of financial market data and infrastructure.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Engineer
+    start: Jun 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Developed and maintained back-end microservices as part of the Backend-For-Frontend (BFF) pattern, efficiently delivering optimized and transformed financial information to the mobile application.
+    - Implemented and maintained the push notification service, integrating with AWS services like SNS, SQS, and DynamoDB, ensuring timely delivery of alert messages to client devices.
+    - Developed and maintained a service integrated with SQS and Redis, implementing a pre-caching strategy to enhance data retrieval and system performance.
+    - Implemented new features with optimized calculations, ensuring the delivery of reliable, robust, and high-performance services to end-users.
+    - Investigated and monitored services with Datadog integrations, contributing to the overall health and stability of the system.
+    - Investigated and successfully resolved a long-standing critical bug that had been present for several years, arising from the restructuring of the pre-caching services. The resolution significantly improved system efficiency and user experience, positively impacting overall platform performance.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: SHIPPOP
+    url: "https://www.shippop.com/"
+    location: Bangkok, Thailand
+    overview: SHIPPOP is an agency of domestic and international logistics company.
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: 2021
+    end: 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    - Spearheaded the inception of the SHIPPOP GLOBAL project, contributing to its foundation and vision. - Designed the systems architecture of an innovative international logistics platform, incorporating adapter, factory pattern, and event-driven architecture for optimal performance and scalability.
+    - Led the design and implementation of the project's infrastructure, leveraging the Microsoft Azure Platform to build a robust foundation (Azure Web App, Azure Virtual Network, Azure DevOps, Azure Redis, Azure Sentinel).
+    - Designed and implemented the data model and API management for member and wallet services, adopting a microservices architecture to enhance flexibility and maintainability.
+    - Played a vital role in redesigning the systems architecture, resulting in an innovative and cutting-edge logistics platform. The adoption of new technology designs inspired by Stelace paved the way for improved efficiency and customer satisfaction.
+  - designation: Intern Software Engineer
+    start: Jun 2021
+    end: Nov 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Designed systems architecture to efficiently serve complex business requirements, ensuring scalability and reliability.
+    - Implemented API endpoints and webhooks with a strong focus on robustness and fault tolerance, providing seamless data integration and communication.
+    - Contributed crucial features that addressed significant customers' needs, enhancing the overall user experience and driving customer satisfaction.
