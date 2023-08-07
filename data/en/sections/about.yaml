@@ -47,38 +47,38 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
+  name: AWS Academy Graduate - AWS Academy Cloud Foundations
   url: "https://www.credly.com/badges/3edf9e3b-a21d-445d-8819-d28a02e7563d"
   badge: "https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"
 
 - type: soft-skill-indicator
   name: Empathy
-  percentage: 70
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Team Player Attitude
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Punctual
-  percentage: 95
+  percentage: 100
   color: orange
 
 - type: soft-skill-indicator
   name: Openness to Feedback
-  percentage: 95
+  percentage: 100
   color: green
 
 - type: soft-skill-indicator
   name: Communication
-  percentage: 95
+  percentage: 100
   color: white
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 100
   color: "#89608E"
 
 
